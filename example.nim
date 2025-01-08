@@ -1,6 +1,6 @@
 import os
 
-import readfq
+import readfx
 
 when isMainModule:
   let args = commandLineParams()

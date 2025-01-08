@@ -2,7 +2,7 @@ import zip/zlib
 
 # https://forum.nim-lang.org/t/2668
 from os import splitPath
-const kseqh = currentSourcePath().splitPath.head & "/readfq/kseq.h"
+const kseqh = currentSourcePath().splitPath.head & "/readfx/kseq.h"
 
 # https://github.com/nim-lang/nimble/issues/157
 {.passL: "-lz".}

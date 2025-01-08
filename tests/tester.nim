@@ -2,7 +2,7 @@ import unittest
 import md5
 import strutils
 
-import ../readfq
+import ../readfx
 
 
 test "readfq test.fasta.gz":

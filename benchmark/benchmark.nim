@@ -3,7 +3,7 @@ import strutils
 import zip/zlib
 import zip/gzipfiles
 
-import ../readfq
+import ../readfx
 import nimbioseq
 import fastx_reader
 import klib
